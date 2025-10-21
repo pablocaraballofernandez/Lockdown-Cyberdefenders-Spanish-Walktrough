@@ -15,6 +15,14 @@
 
 </div>  
 
+# Indice  
+
+## · PCAP Analysis  
+
+## · Memory Dump Analysis  
+
+## · Malware Sample Analysis
+
 ## PCAP Analysis  
 
 ### Question 1: After flooding the IIS host with rapid-fire probes, the attacker reveals their origin. Which IP address generated this reconnaissance traffic? / Después de inundar el host de IIS con sondeos rápidos y continuos, el atacante revela su origen. ¿Qué dirección IP generó este tráfico de reconocimiento?  
@@ -57,7 +65,7 @@ Realizamos la siguiente búsqueda y encontramos el puerto usado para la reverse 
 
 ![Imágenes](Images/7.png)  
 
-## Memory Dump Aanlysis  
+## Memory Dump Anlysis  
 
 ### Question 6: Your memory snapshot captures the system’s kernel in situ, providing vital context for the breach. What is the kernel base address in the dump? / La instantánea de memoria captura el kernel del sistema in situ, proporcionando un contexto vital para la intrusión. ¿Cuál es la dirección base del kernel en el volcado?
 
