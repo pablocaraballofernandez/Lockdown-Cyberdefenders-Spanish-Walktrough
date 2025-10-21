@@ -117,7 +117,7 @@ Justo arriba en la búsqueda anterior con volatility3 tenemos las respuestas:
 
 Subimos el archivo a virustotal y nos vamos a details:  
 
-![Imágenes](Images/12.pmg)  
+![Imágenes](Images/12.png)  
 
 ### Question 10: Threat-intel analysis shows the malware beaconing to its command-and-control host. Which fully qualified domain name (FQDN) does it contact? / El análisis de inteligencia de amenazas muestra que el malware está emitendo señales (beaconing) hacia su host de mando y control. ¿Qué nombre de dominio totalmente calificado (FQDN) contacta?  
 
@@ -125,7 +125,7 @@ Nos vamos a los comentarios de la comunidad y encontramos la respuesta:
 
 ![Imágenes](Images/13.png)  
 
-### Question 11: Open-source intel associates that hash with a well-known commodity RAT. To which malware family does the sample belong? / La inteligencia de fuentes abiertas asocia ese hash con un RAT de uso generalizado. ¿A qué familia de malware pertenece el muestro?  
+### Question 11: Open-source intel associates that hash with a well-known commodity RAT. To which malware family does the sample belong? / La inteligencia de fuentes abiertas asocia ese hash con un RAT de uso generalizado. ¿A qué familia de malware pertenece la muestra?  
 
 En un comentario de abajo encontramos la respuesta:  
 
